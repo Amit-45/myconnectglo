@@ -2,8 +2,8 @@
 
 
 My Connect Glo is a web application developed using Java servlet technology.
-It provides a platform for users to create, share, and discuss various topics. T
-he project incorporates Java servlets, JDBC for database connectivity, JSP for dynamic web content, and HTML/CSS with Bootstrap for the frontend.
+It provides a platform for users to create, share, and discuss various topics. 
+The project incorporates Java servlets, JDBC for database connectivity, JSP for dynamic web content, and HTML/CSS with Bootstrap for the frontend.
 
 ## Features
 
