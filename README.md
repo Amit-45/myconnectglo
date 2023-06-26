@@ -25,6 +25,6 @@ Java Blog Wesite: A dynamic web application leveraging Java servlets, JDBC, JSP,
 ![Screenshot 2](https://github.com/Amit-45/myconnectglo/assets/77204104/a71fe465-65e4-4715-8573-9f0d49a8cc2b)
 
 ## Contributing
-Contributions to "My Connect Using Java" are welcome! If you encounter any issues or have suggestions for improvement, please open an issue on the project's repository or submit a pull request with your proposed changes. Your feedback and collaboration are highly appreciated.
+Contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue on the project's repository or submit a pull request with your proposed changes. Your feedback and collaboration are highly appreciated.
 
 
