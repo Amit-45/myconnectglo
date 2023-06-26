@@ -1,9 +1,6 @@
-# My Connet Using Java
+# My Connect Blog  using Java
 
-
-My Connect Glo is a web application developed using Java servlet technology.
-It provides a platform for users to create, share, and discuss various topics. 
-The project incorporates Java servlets, JDBC for database connectivity, JSP for dynamic web content, and HTML/CSS with Bootstrap for the frontend.
+Java Blog Wesite: A dynamic web application leveraging Java servlets, JDBC, JSP, and HTML/CSS with Bootstrap. Enables users to create, share, and engage in discussions on diverse topics with a robust and intuitive interface.
 
 ## Features
 
@@ -21,9 +18,13 @@ The project incorporates Java servlets, JDBC for database connectivity, JSP for 
 - HTML/CSS
 - Bootstrap
 
-## Demo 
+## Demo
 
-<img width="1467" alt="Screenshot 2023-06-27 at 4 24 03 AM" src="https://github.com/Amit-45/myconnectglo/assets/77204104/9a232d5f-fa67-4b0c-96a5-92b36d30405b">
+![Screenshot 1](https://github.com/Amit-45/myconnectglo/assets/77204104/9a232d5f-fa67-4b0c-96a5-92b36d30405b)
+
+![Screenshot 2](https://github.com/Amit-45/myconnectglo/assets/77204104/a71fe465-65e4-4715-8573-9f0d49a8cc2b)
+
+## Contributing
+Contributions to "My Connect Using Java" are welcome! If you encounter any issues or have suggestions for improvement, please open an issue on the project's repository or submit a pull request with your proposed changes. Your feedback and collaboration are highly appreciated.
 
 
-<img width="1470" alt="Screenshot 2023-06-27 at 4 25 44 AM" src="https://github.com/Amit-45/myconnectglo/assets/77204104/a71fe465-65e4-4715-8573-9f0d49a8cc2b">
